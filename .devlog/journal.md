@@ -1,3 +1,4 @@
 - 2026-03-27 19:16 | refactor: reorganizar apuntes (#12)
 - 2026-04-06 15:00 | notes: ideas pendientes (#19)
 - 2026-04-14 15:45 | wip: experimento del dia (#34)
+- 2026-04-16 16:45 | docs: nota de avance (#35)
