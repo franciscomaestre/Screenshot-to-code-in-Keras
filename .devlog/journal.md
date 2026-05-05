@@ -3,3 +3,4 @@
 - 2026-04-14 15:45 | wip: experimento del dia (#34)
 - 2026-04-16 16:45 | docs: nota de avance (#35)
 - 2026-04-25 21:48 | update: progreso (#52)
+- 2026-05-05 18:22 | wip: experimento del dia (#65)
