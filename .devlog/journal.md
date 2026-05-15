@@ -5,3 +5,4 @@
 - 2026-04-25 21:48 | update: progreso (#52)
 - 2026-05-05 18:22 | wip: experimento del dia (#65)
 - 2026-05-06 20:08 | tweak: ajuste menor (#66)
+- 2026-05-14 19:18 | wip: experimento del dia (#79)
