@@ -7,3 +7,4 @@
 - 2026-05-06 20:08 | tweak: ajuste menor (#66)
 - 2026-05-14 19:18 | wip: experimento del dia (#79)
 - 2026-05-16 16:19 | chore: limpieza (#80)
+- 2026-05-26 21:13 | wip: experimento del dia (#88)
